@@ -19,3 +19,6 @@ This paper is intended for security leaders, auditors, oversight bodies, and ope
 
 The full paper is available here:
 
+
+
+This repository is maintained as a stable reference artifact. Project documentation and technical implementations related to governance and security are published separately.
