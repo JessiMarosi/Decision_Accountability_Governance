@@ -17,7 +17,6 @@ This paper is intended for security leaders, auditors, oversight bodies, and ope
 
 ## Document
 
-The full paper is available here:
-https://github.com/JessiMarosi/Decision_Accountability_Governance/blob/main/Decision%20Accountability%20Is%20the%20Missing%20Control_Why%20Security%20Programs%20Pass%20Compliance%20but%20Fail%20Audit.pdf
+[Decision Accountability Is the Missing Control (PDF)](paper/Decision_Accountability_Is_the_Missing_Control.pdf)
 
 This repository is maintained as a stable reference artifact. Project documentation and technical implementations related to governance and security are published separately.
